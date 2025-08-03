@@ -74,5 +74,5 @@ Data is visualized in a clean and interactive format.
 
 ---
 
-**📌 Author**: Data Analytics Project  
+**📌 Author**: Aniket Ganguli
 **📅 Last Updated**: August 2025  
