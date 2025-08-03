@@ -65,7 +65,7 @@ Data is visualized in a clean and interactive format.
 - **Country Participation Overview**
 
 ---
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 ## 📂 Files
 - `fifa.xlsx` – Dataset containing FIFA World Cup historical data
 - `dashboard.png` – Main dashboard visualization  
